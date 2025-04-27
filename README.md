@@ -1,4 +1,4 @@
 # git-demo
 This is my git repository.
 <br>
-Author- Nibha.
+Author- Nibha Rai
